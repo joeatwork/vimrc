@@ -1,3 +1,10 @@
+This software contains pathogen.vim, Copyright (c) Tim Pope, which is
+distributed under the same terms as Vim itself. See :help license in vim for
+details.
+
+The remaining software is a derivative work of https://github.com/jessfraz/.vim
+and is distributed under the following license.
+
 The MIT License (MIT)
 
 Copyright (c) 2017 Joe Bowers
